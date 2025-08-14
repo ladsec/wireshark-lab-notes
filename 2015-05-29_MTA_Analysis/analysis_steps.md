@@ -36,3 +36,34 @@
 ## 3. Detailní analýza
 
 ### 3.1 DNS analýza
+| Doména   | IP adresa    | Poznámka |
+|------------------|------|-------|
+|sciclubtermeeuganee.it|149.3.144.218|zip soubor
+|moskalskiybodun.com|91.200.14.95|gate.php
+| dkpconsulting.com|46.249.199.41|exe soubor|
+|doc.giovanniborsi.it|181.224.142.143|exe soubor|
+|dom660000.ru|37.140.192.238|exe soubor|
+|domdobleska.ru|178.208.83.15|exe soubor|
+
+### 3.2 Souborové přenosy
+
+| Název souboru | Směr | Velikost | MD5 hash | Poznámka |
+|---------------|------|---------|---------|----------|
+|DMR8J1U....|wnnvpim.ddnsking.com -> oběť|393 kB|bad6eb0f62c6cb20f0ac31fb13e60363|infikovaný soubor|
+|pdf_efax_message_3537462.zip|sciclubtermeeuganee.it -> oběť|132 kB|002b4e3fc895582b5efed565ca1ffd2f|malware|
+|bb.exe|doc.giovanniborsi.it|39 kB|ee6eb31188b1c544bc4a18643b1576be|
+|bb.exe|doc.giovanniborsi.it|14 kB|a029381c928cd74975b8039c729f117e|
+|bb.exe|doc.giovanniborsi.it|624 bytes|66e41f0c0734cb7f436dfce09ce38073|
+
+
+
+
+
+
+
+
+
+
+
+
+
