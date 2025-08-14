@@ -1,0 +1,1 @@
+#Postup analýzy souboru/traficu
