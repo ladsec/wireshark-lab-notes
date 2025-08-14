@@ -5,4 +5,4 @@ Pcap bez informací o problému apod
 ## Nástroje
 - Wireshark
 - VirusTotal
-- OSINT (WHOIS, URLscan)
+- WHOIS, URLscan
