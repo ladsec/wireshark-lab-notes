@@ -71,7 +71,7 @@
 - May 29, 2015 14:32:49 UTC spuštěn payload z wnnvpim.ddnsking.com
 
 ## 6. Závěr
-- Otevřen gmail s emailem, který odkázal na malware, který uživatel stáhl. Ten pak stáhl z další části malwaru a na konec payload soubor, který otevřel vrátka pro útočníka přes python
+- Otevřen gmail s emailem, který odkázal na malware, který uživatel stáhl. Ten pak stáhl z další části malwaru a na konec payload soubor, který spustil další část malwaru, který není součástí pcap. 
 
 
 
