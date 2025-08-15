@@ -11,7 +11,7 @@ PCAP byl poskytnut bez popisu incidentu – cílem bylo provést kompletní anal
 
 ## Struktura repozitáře
 - `analysis_steps.md` – detailní postup analýzy krok po kroku
-- `analysis_funds.md` – zjištění, IOC a časová osa útoku
+- `analysis_finding.md` – zjištění, IOC a časová osa útoku
 - `/images` – screenshoty z Wiresharku a podpůrná vizualizace
 
 ## Shrnutí útoku
